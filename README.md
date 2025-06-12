@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Full Name] 👋</h1>
+<h1 align="center">Hi, I'm [Siddharth Kumar Pandey] 👋</h1>
 
 <p align="center">
   🎓 B.Tech CS (AI & ML) | Aspiring Machine Learning Engineer | Problem Solver | Passionate Tech Innovator
@@ -12,7 +12,7 @@
 - 🚀 Passionate about building **real-world AI solutions** in **NLP, Computer Vision, and MLOps**.
 - 📊 Skilled in deriving **actionable insights** from data and deploying **robust machine learning systems**.
 - 🔁 Constantly evolving through **hands-on projects, real-world applications, and continuous learning**.
-- 🤝 Actively seeking **internship opportunities** and **collaborative tech projects** to grow and contribute meaningfully.
+- 🤝 Open to internships, collaborations, and research opportunities.
 
 ---
 
@@ -69,10 +69,7 @@
 
 - ✅ *Machine Learning with Python* – IBM (Cognitive Class)  
 - ✅ *Deep Learning Fundamentals* – IBM (Cognitive Class)  
-- ✅ *99-Hour AI/ML Bootcamp* – Krish Naik (Udemy)  
-- ✅ *Data Analytics Bootcamp* – CodeBasics  
-- ✅ *MLOps & Deployment Bootcamp (2 Projects)* – Krish Naik (Udemy)  
-- ✅ *Generative AI Bootcamp – LangChain + HuggingFace* (In Progress)
+
 
 ---
 
@@ -85,10 +82,9 @@
 
 ---
 
-## 💡 Professional Fun Fact
+## 💡 Fun Fact
 
-> **Machine Learning isn't just code — it's creativity applied to computation.**  
-> I believe in building AI that’s not only functional but also ethical, impactful, and meaningful.
+**Machine Learning isn't just about code — it's about curiosity, continuous learning, and solving real-world problems using data.**  
 
 ---
 
