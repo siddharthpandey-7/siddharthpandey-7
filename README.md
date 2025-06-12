@@ -106,7 +106,7 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/siddharth-kumar-pandey-003065343/)
 - 💼 [Portfolio](https://your-portfolio.com) *(optional)*
 - 📧 Email: siddharthpandey97825@gmail.com
-- 🌐 [GitHub](https://github.com/your-github-username)
+- 🌐 [GitHub](https://github.com/siddharthpandey-7)
 
 ---
 
