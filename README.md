@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Siddharth Kumar Pandey] 👋</h1>
+<h1 align="center">Hi, I'm Siddharth Kumar Pandey 👋</h1>
 
 <p align="center">
   🎓 B.Tech CS (AI & ML) | Aspiring Machine Learning Engineer | Problem Solver | Passionate Tech Innovator
@@ -94,15 +94,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=github_dark&hide_border=true" alt="GitHub Streak" />
+    <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=github_dark" alt="Top Languages" />
+
 </p>
 
 ---
 
 ## 📬 Let's Connect!
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-linkedin-username)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/siddharth-kumar-pandey-003065343/)
 - 💼 [Portfolio](https://your-portfolio.com) *(optional)*
-- 📧 Email: your.email@example.com
+- 📧 Email: siddharthpandey97825@gmail.com
 - 🌐 [GitHub](https://github.com/your-github-username)
 
 ---
