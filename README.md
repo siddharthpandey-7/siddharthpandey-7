@@ -84,7 +84,7 @@
 
 ## 💡 Fun Fact
 
-**Machine Learning isn't just about code — it's about curiosity, continuous learning, and solving real-world problems using data.**  
+**In 1959, Arthur Samuel created a self-learning checkers program and introduced the term "Machine Learning".**
 
 ---
 
