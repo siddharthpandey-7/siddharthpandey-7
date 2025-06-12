@@ -1,114 +1,26 @@
-<h1 align="center">Hi, I'm [Your Full Name] 👋</h1>
+<h1 align="center">Hi 👋, I'm Siddharth Kumar Pandey</h1>
+<h3 align="center">I’m currently a 3rd year B.Tech Computer Science student specializing in Artificial Intelligence & Machine Learning.</h3>
 
-<p align="center">
-  🎓 B.Tech CS (AI & ML) | Aspiring Machine Learning Engineer | Problem Solver | Passionate Tech Learner
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthpandey-7&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthpandey-7" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharthpandey-7" alt="siddharthpandey-7" /></a> </p>
+
+- 🌱 I’m currently learning **Machine Learning, MLOps, Deep Learning, NLP, GANs**
+
+- 📫 How to reach me **siddharthpandey97825@gmail.com**
+
+- ⚡ Fun fact **Machine Learning isn't just about code — it's about curiosity, continuous learning, and solving real-world problems using data.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/siddharth-kumar-pandey-003065343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth-kumar-pandey-003065343" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## 🧠 About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthpandey-7&show_icons=true&locale=en&layout=compact" alt="siddharthpandey-7" /></p>
 
-- 👨‍💻 I’m currently a **3rd year B.Tech Computer Science student** specializing in **Artificial Intelligence & Machine Learning**.
-- 🚀 I’m focused on building **real-world AI projects**, especially in **NLP, Computer Vision, and MLOps**.
-- 📊 I’m passionate about using **data-driven insights** and **ML models** to solve practical problems and build scalable solutions.
-- 🔁 Constantly improving my skills in **ML, DL, Deployment, and Generative AI** through hands-on projects and certifications.
-- 🤝 Open to **internship opportunities** and **collaborative research/industry projects**.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddharthpandey-7&show_icons=true&locale=en" alt="siddharthpandey-7" /></p>
 
----
-
-## 💼 Tech Stack
-
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**ML & DL:**  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
-![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-**Web & Deployment:**  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
-
----
-
-## 🚀 Featured Projects
-
-> 📌 *Visit my pinned repositories for full source code & detailed documentation.*
-
-- 🧠 **AI-Powered Resume Analyzer**  
-  NLP-based Flask web app that analyzes resumes and matches them with ideal job roles using cosine similarity & keyword extraction.
-
-- 🖼️ **Image Classification with CNN**  
-  Built and trained a CNN from scratch using TensorFlow to classify animals in images with high accuracy.
-
-- 🧾 **Exploratory Data Analysis & ML**  
-  Performed EDA and built regression & classification models on datasets like diabetes prediction and housing prices.
-
-- 🧪 **ML Model Deployment (Flask + Docker)**  
-  End-to-end ML pipeline with model training, saving with pickle, deploying via Flask & Docker, with a clean UI.
-
-- 🧠 **Generative AI (Coming Soon)**  
-  Building real-world projects using LangChain, Hugging Face Transformers, and OpenAI APIs to work on LLM applications.
-
----
-
-## 📜 Certifications
-
-- ✅ **Machine Learning with Python – Cognitive Class (IBM)**
-- ✅ **Deep Learning Fundamentals – Cognitive Class (IBM)**
-- ✅ **99-Hour AI/ML Bootcamp – Krish Naik (Udemy)**
-- ✅ **Data Analytics Bootcamp – CodeBasics**
-- ✅ **MLOps & Deployment Bootcamp (2 Projects) – Krish Naik (Udemy)**
-- ✅ **Generative AI Bootcamp – LangChain + HuggingFace (in progress)**
-
----
-
-## 🏆 Achievements
-
-- 🥉 **Bronze Badge in Python – HackerRank**
-- 📈 Completed multiple real-world ML projects with deployment
-- 📚 Self-learned full-stack development for AI app deployment
-- 🛠️ Consistently working on impactful and cleanly documented GitHub repositories
-
----
-
-## 💡 Professional Fun Fact
-
-> **Machine Learning isn’t just about algorithms – it’s about solving problems, improving lives, and turning ideas into innovation.**  
-> I believe in building ethical, scalable, and human-centered AI solutions.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=github_dark" alt="GitHub Streak" />
-</p>
-
----
-
-## 📬 Let's Connect!
-
-- 🔗 [LinkedIn](https://linkedin.com/in/yourlinkedin)  
-- 💼 [Portfolio](https://your-portfolio.com) *(if any)*  
-- 📧 Email: your.email@example.com  
-- 🌐 [GitHub](https://github.com/your-github-username)
-
----
-
-*Thanks for visiting my profile! Feel free to check out my projects or connect with me to collaborate on AI/ML ideas! 🚀*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthpandey-7&" alt="siddharthpandey-7" /></p>
