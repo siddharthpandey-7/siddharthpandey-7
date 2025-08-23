@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=450&lines=B.Tech+CS+AI%2FML+3rd+Year;Data+Science+Enthusiast;Machine+Learning+Developer;Problem+Solver)](https://git.io/typing-svg)
+
   
   <p align="center">
     🎓 <strong>B.Tech CS (AI & ML)</strong> | 🤖 <strong>Aspiring ML Engineer</strong> | 💡 <strong>Tech Innovator</strong>
