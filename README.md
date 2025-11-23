@@ -28,7 +28,7 @@
 
 **Tech Stack:** Python, Scikit-learn, XGBoost, Flask, Pandas, NumPy  
 
-[![View Project](https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharthpandey-7/thyroid-disease-prediction)
+[![View Project](https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharthpandey-7/Thyroid-Disease-Prediction-Project)
 
 ---
 
