@@ -1,4 +1,8 @@
- # Hi there! 👋 I'm Siddharth Kumar Pandey
+<div align="center">
+
+# 👋 Hi there! I'm **Siddharth Kumar Pandey**
+
+</div>
 
 <div align="center">
   
