@@ -2,8 +2,10 @@
 
 # 👋 Hi, I'm **Siddharth Kumar Pandey**
 
-🎓 **B.Tech Computer Science (AI & ML)** | 🤖 **Aspiring Machine Learning Engineer**  
-                                             
+🎓 **B.Tech Computer Science (AI & ML)**  
+🤖 **Aspiring Machine Learning Engineer**  
+📍 India
+
 </div>
 
 ---
@@ -120,6 +122,31 @@ A deep learning–based image classification system using **transfer learning** 
 - ✅ **Machine Learning with Python** – IBM (Cognitive Class)
 - ✅ **Deep Learning Fundamentals** – IBM (Cognitive Class)
 - 🥉 **Bronze Badge in Python** – HackerRank
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siddharthpandey-7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthpandey-7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  
+</div>
+
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddharthpandey-7&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  
+</div>
+
+### 📊 Profile Stats
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=siddharthpandey-7&color=brightgreen&style=for-the-badge)
+  ![Followers](https://img.shields.io/github/followers/siddharthpandey-7?style=for-the-badge&color=blue)
+  
+</div>
 
 ---
 
