@@ -1,15 +1,11 @@
 <div align="center">
 
-# 👋 Hi there! I'm **Siddharth Kumar Pandey**
+# 👋 Hi, I'm **Siddharth Kumar Pandey**
 
-</div>
+🎓 **B.Tech Computer Science (AI & ML)**  
+🤖 **Aspiring Machine Learning Engineer**  
+📍 India
 
-<div align="center">
-  
-  <p align="center">
-    🎓 <strong>B.Tech CS (AI & ML)</strong> | 🤖 <strong>Aspiring ML Engineer</strong> | 💡 <strong>Tech Innovator</strong>
-  </p>
-  
 </div>
 
 ---
@@ -17,137 +13,116 @@
 ## 🚀 Featured Projects
 
 ### 🧪 **Thyroid Disease Prediction System (End-to-End ML + Flask)**
-*A clinically-informed machine learning system for predicting Normal, Hyperthyroid, and Hypothyroid conditions.*
 
-**Key Features:**
-- 🧠 XGBoost model with SMOTE balancing and cross-validation  
-- 🩺 Clinical rule overrides for extreme TSH values  
-- 📊 Full ML pipeline with preprocessing & analytics  
-- 🌐 Responsive Flask web app with Tailwind CSS  
-- 🎯 **97.67% test accuracy** with high reliability  
+An end-to-end machine learning application to classify **Normal, Hyperthyroid, and Hypothyroid** conditions based on clinical parameters.
 
-**Tech Stack:** Python, Scikit-learn, XGBoost, Flask, Pandas, NumPy  
+**What I built & learned:**
+- Trained and evaluated ML models with proper preprocessing
+- Used **SMOTE** for class imbalance handling
+- Implemented a **complete ML pipeline** (data → model → evaluation)
+- Integrated model with a **Flask web application**
+- Focused on correctness, validation, and practical deployment
 
-[![View Project](https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharthpandey-7/Thyroid-Disease-Prediction-Project)
+**Model Performance:**  
+- Test Accuracy: **97.67%**
+
+**Tech Stack:**  
+Python, Scikit-learn, XGBoost, Pandas, NumPy, Flask  
+
+🔗 **Project Repository:**  
+https://github.com/siddharthpandey-7/Thyroid-Disease-Prediction-Project
 
 ---
 
-### 🫁 **Pneumonia Detection from Chest X-Ray (VGG19 + Deep Learning)**
-*A deep learning–powered web application built using VGG19 transfer learning and fine-tuning.*
+### 🫁 **Pneumonia Detection from Chest X-Ray (Deep Learning)**
 
-**Key Features:**
-- 🖼️ VGG19 transfer learning + fine-tuning  
-- ⚡ **91.67% test accuracy** with **95% pneumonia recall**  
-- 🔄 Advanced augmentation for robust training  
-- 🌐 Flask web app with real-time image preview  
-- 🎯 Two-phase training strategy for performance improvement  
+A deep learning–based image classification system using **transfer learning** to detect pneumonia from chest X-ray images.
 
-**Tech Stack:** TensorFlow, Keras, OpenCV, Flask, Python  
+**What I built & learned:**
+- Used **VGG19** with transfer learning and fine-tuning
+- Applied image preprocessing and augmentation techniques
+- Designed a two-phase training strategy
+- Built a **Flask-based web interface** for predictions
+- Evaluated model using accuracy and recall metrics
 
-[![View Project](https://img.shields.io/badge/View_Project-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharthpandey-7/Pneumonia_Detection_Using_DeepLearning)
+**Model Performance:**  
+- Test Accuracy: **91.67%**  
+- Pneumonia Recall: **~95%**
+
+**Tech Stack:**  
+TensorFlow, Keras, OpenCV, Python, Flask  
+
+🔗 **Project Repository:**  
+https://github.com/siddharthpandey-7/Pneumonia_Detection_Using_DeepLearning
 
 ---
 
 ## 🧠 About Me
 
-- 👨‍💻 **3rd year B.Tech Computer Science student** specializing in **AI & Machine Learning**
-- 🚀 Passionate about building **real-world AI solutions** and **data-driven applications**
-- 📊 Skilled in **machine learning, data analysis**, and **web deployment**
-- 🔁 Constantly learning through **hands-on projects** and **continuous improvement**
-- 🤝 Open to **internships, collaborations**, and **exciting opportunities**
+- 🎓 **3rd-year B.Tech CS (AI & ML) student**
+- 📊 Strong interest in **Machine Learning, Deep Learning, and Data Analysis**
+- 🧪 Hands-on experience through **end-to-end ML & DL projects**
+- 🌐 Comfortable with **model deployment using Flask**
+- 🔁 Focused on learning through **practical implementation**
+- 🤝 Open to **internships, collaborations, and learning opportunities**
 
 ---
 
-## 💼 Tech Stack
+## 💼 Technical Skills
 
-<div align="center">
+**Programming & Databases**
+- Python
+- SQL
+- JavaScript (basics)
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Machine Learning & Deep Learning**
+- NumPy, Pandas
+- Scikit-learn
+- TensorFlow / Keras
+- CNNs & Transfer Learning
+- Model evaluation & preprocessing
 
-**ML & Data Science:**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-**Web & Tools:**  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
+**Web & Tools**
+- Flask
+- HTML, CSS
+- Git & GitHub
+- Docker (basic)
+- Jupyter Notebook
 
 ---
 
-## 🚀 Other Projects
+## 🛠️ Other Projects & Practice Work
 
-- 🧠 **AI-Powered Resume Analyzer** (NLP-based tool for resume evaluation)  
-- 🖼️ **CNN Image Classifier** (Deep learning classifier for images)  
-- 📊 **Machine Learning Models** (Diabetes prediction, housing prices, etc.)  
-- 🚢 **ML Deployment Projects** (Flask apps, Docker, API deployment)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siddharthpandey-7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthpandey-7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-  
-</div>
-
-<div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddharthpandey-7&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-  
-</div>
-
-### 📊 Profile Stats
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=siddharthpandey-7&color=brightgreen&style=for-the-badge)
-  ![Followers](https://img.shields.io/github/followers/siddharthpandey-7?style=for-the-badge&color=blue)
-  
-</div>
+- 🧠 **AI-Powered Resume Analyzer** (NLP-based resume evaluation tool)
+- 🖼️ **CNN Image Classification Projects**
+- 📊 **ML Practice Projects**  
+  (Diabetes prediction, housing price prediction, etc.)
+- 🚀 **ML Deployment Practice**  
+  (Flask APIs, basic Docker usage)
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Certifications
 
-- ✅ **Machine Learning with Python** – IBM (Cognitive Class)  
-- ✅ **Deep Learning Fundamentals** – IBM (Cognitive Class)  
-- 🥉 **Bronze Badge in Python** – HackerRank  
-- 🚀 Built and deployed multiple real-world ML applications  
+- ✅ **Machine Learning with Python** – IBM (Cognitive Class)
+- ✅ **Deep Learning Fundamentals** – IBM (Cognitive Class)
+- 🥉 **Bronze Badge in Python** – HackerRank
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-kumar-pandey-003065343/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthpandey97825@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharthpandey-7)
-
-</div>
+- 🔗 LinkedIn: https://www.linkedin.com/in/siddharth-kumar-pandey-003065343/
+- 📧 Email: siddharthpandey97825@gmail.com
+- 💻 GitHub: https://github.com/siddharthpandey-7
 
 ---
 
 <div align="center">
-  
-### 💡 Fun Fact
-*"In 1959, Arthur Samuel created a self-learning checkers program and introduced the term 'Machine Learning'."*
 
-**⭐ Star my repositories if you find them interesting!**
+💡 *Fun Fact:*  
+In 1959, Arthur Samuel coined the term **Machine Learning** while building a self-learning checkers program.
 
-*Thank you for visiting my profile! Let's connect and collaborate on exciting ideas in AI, ML, or Data Science 🚀*
+⭐ *Feel free to explore my repositories and connect if you'd like to collaborate or learn together!*
 
 </div>
