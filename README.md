@@ -27,10 +27,13 @@ An end-to-end machine learning application to classify **Normal, Hyperthyroid, a
 - Test Accuracy: **97.67%**
 
 **Tech Stack:**  
-Python, Scikit-learn, XGBoost, Pandas, NumPy, Flask  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-🔗 **Project Repository:**  
-https://github.com/siddharthpandey-7/Thyroid-Disease-Prediction-Project
+[![View Project](https://img.shields.io/badge/🔗_View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharthpandey-7/Thyroid-Disease-Prediction-Project)
 
 ---
 
@@ -50,10 +53,13 @@ A deep learning–based image classification system using **transfer learning** 
 - Pneumonia Recall: **~95%**
 
 **Tech Stack:**  
-TensorFlow, Keras, OpenCV, Python, Flask  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-🔗 **Project Repository:**  
-https://github.com/siddharthpandey-7/Pneumonia_Detection_Using_DeepLearning
+[![View Project](https://img.shields.io/badge/🔗_View_Project-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharthpandey-7/Pneumonia_Detection_Using_DeepLearning)
 
 ---
 
@@ -70,24 +76,33 @@ https://github.com/siddharthpandey-7/Pneumonia_Detection_Using_DeepLearning
 
 ## 💼 Technical Skills
 
+<div align="center">
+
 **Programming & Databases**
-- Python
-- SQL
-- JavaScript (basics)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Machine Learning & Deep Learning**
-- NumPy, Pandas
-- Scikit-learn
-- TensorFlow / Keras
-- CNNs & Transfer Learning
-- Model evaluation & preprocessing
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 **Web & Tools**
-- Flask
-- HTML, CSS
-- Git & GitHub
-- Docker (basic)
-- Jupyter Notebook
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
 
 ---
 
@@ -112,9 +127,13 @@ https://github.com/siddharthpandey-7/Pneumonia_Detection_Using_DeepLearning
 
 ## 📫 Connect With Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/siddharth-kumar-pandey-003065343/
-- 📧 Email: siddharthpandey97825@gmail.com
-- 💻 GitHub: https://github.com/siddharthpandey-7
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-kumar-pandey-003065343/)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthpandey97825@gmail.com)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharthpandey-7)
+
+</div>
 
 ---
 
