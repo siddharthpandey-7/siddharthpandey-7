@@ -2,10 +2,8 @@
 
 # 👋 Hi, I'm **Siddharth Kumar Pandey**
 
-🎓 **B.Tech Computer Science (AI & ML)**  
-🤖 **Aspiring Machine Learning Engineer**  
-📍 India
-
+🎓 **B.Tech Computer Science (AI & ML)** || 🤖 **Aspiring Machine Learning Engineer**  
+                                             
 </div>
 
 ---
