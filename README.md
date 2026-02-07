@@ -61,6 +61,7 @@ A deep learning–based image classification system using **transfer learning** 
 
 [![View Project](https://img.shields.io/badge/🔗_View_Project-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharthpandey-7/Pneumonia_Detection_Using_DeepLearning)
 
+---
 
 ### 📝 **Text Summarization Web App (NLP + Transformers)**
 
@@ -83,6 +84,7 @@ An end-to-end **NLP application** for **abstractive dialogue summarization** usi
 [![View Project](https://img.shields.io/badge/🔗_View_Project-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharthpandey-7/Text-Summarization-Project)
 
 ---
+
 
 ### 📊 **Customer Churn Prediction (End-to-End Machine Learning)**
 
