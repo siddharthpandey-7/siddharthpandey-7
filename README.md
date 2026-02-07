@@ -89,6 +89,43 @@ An end-to-end **NLP application** for **abstractive dialogue summarization**, bu
 
 [![View Project](https://img.shields.io/badge/🔗_View_Project-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharthpandey-7/Text-Summarization-Project)
 
+### 📊 **Customer Churn Prediction (End-to-End Machine Learning)**
+
+An end-to-end **machine learning classification system** to predict customer churn for subscription-based businesses using customer demographics, service usage, and billing data.
+
+**What I built & learned:**
+- Framed churn prediction as an **imbalanced binary classification problem**
+- Performed **leakage-free preprocessing** using a fully automated **scikit-learn pipeline**
+- Applied **SMOTE inside the pipeline** for correct class imbalance handling
+- Engineered separate preprocessing for **numerical and categorical features**
+- Trained and compared **baseline and advanced ML models**
+- Selected the final model based on **business-relevant evaluation metrics**
+
+**Models Used:**
+- Logistic Regression (baseline)
+- **XGBoost Classifier (final model)**
+
+**Model Performance (Test Set):**
+- ROC-AUC: **~0.82**
+- Accuracy: **~0.78**
+- Strong balance between precision and recall for churn detection
+
+**Key ML Concepts Demonstrated:**
+- Pipeline-based training & inference
+- Imbalanced classification handling
+- Proper model evaluation (ROC-AUC, Precision, Recall, F1)
+- Production-ready model persistence using `joblib`
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+[![View Project](https://img.shields.io/badge/🔗_View_Project-2ECC71?style=for-the-badge&logo=github&logoColor=white)](PASTE_YOUR_REPO_LINK_HERE)
+
+
 
 ---
 
