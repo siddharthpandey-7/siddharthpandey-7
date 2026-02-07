@@ -61,6 +61,35 @@ A deep learning–based image classification system using **transfer learning** 
 
 [![View Project](https://img.shields.io/badge/🔗_View_Project-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharthpandey-7/Pneumonia_Detection_Using_DeepLearning)
 
+
+### 📝 **Text Summarization Web App (NLP + Transformers)**
+
+An end-to-end **NLP application** for **abstractive dialogue summarization**, built using a **fine-tuned T5 transformer model** and deployed as a **FastAPI-based web app**.
+
+**What I built & learned:**
+- Fine-tuned a **T5-Small transformer** on the **SAMSum dialogue summarization dataset**
+- Built a **FastAPI REST API** for real-time text summarization
+- Implemented an **end-to-end NLP pipeline** (tokenization → inference → decoding)
+- Integrated a **simple frontend UI** using HTML, CSS, and JavaScript
+- Loaded the model dynamically from the **Hugging Face Model Hub** (avoiding large model files in the repo)
+- Deployed the complete application on **Hugging Face Spaces using Docker**
+
+**Model & Deployment Details:**
+- Task: **Abstractive Text Summarization**
+- Dataset: **SAMSum**
+- Deployment: **Hugging Face Spaces**
+- Model Hosting: **Hugging Face Hub**
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+[![View Project](https://img.shields.io/badge/🔗_View_Project-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharthpandey-7/Text-Summarization-Project)
+
+
 ---
 
 ## 🧠 About Me
