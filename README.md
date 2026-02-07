@@ -108,7 +108,7 @@ An end-to-end **machine learning classification system** to predict customer chu
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-[![View Project](https://img.shields.io/badge/🔗_View_Project-2ECC71?style=for-the-badge&logo=github&logoColor=white)](PASTE_YOUR_REPO_LINK_HERE)
+[![View Project](https://img.shields.io/badge/🔗_View_Project-2ECC71?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharthpandey-7/Customer-Churn-Prediction)
 
 
 ---
