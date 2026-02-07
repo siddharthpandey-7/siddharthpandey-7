@@ -64,21 +64,14 @@ A deep learning–based image classification system using **transfer learning** 
 
 ### 📝 **Text Summarization Web App (NLP + Transformers)**
 
-An end-to-end **NLP application** for **abstractive dialogue summarization**, built using a **fine-tuned T5 transformer model** and deployed as a **FastAPI-based web app**.
+An end-to-end **NLP application** for **abstractive dialogue summarization** using a **fine-tuned T5 transformer model**, served via **FastAPI** and deployed online.
 
 **What I built & learned:**
-- Fine-tuned a **T5-Small transformer** on the **SAMSum dialogue summarization dataset**
-- Built a **FastAPI REST API** for real-time text summarization
-- Implemented an **end-to-end NLP pipeline** (tokenization → inference → decoding)
-- Integrated a **simple frontend UI** using HTML, CSS, and JavaScript
-- Loaded the model dynamically from the **Hugging Face Model Hub** (avoiding large model files in the repo)
-- Deployed the complete application on **Hugging Face Spaces using Docker**
-
-**Model & Deployment Details:**
-- Task: **Abstractive Text Summarization**
-- Dataset: **SAMSum**
-- Deployment: **Hugging Face Spaces**
-- Model Hosting: **Hugging Face Hub**
+- Fine-tuned **T5-Small** on the **SAMSum dialogue summarization dataset**
+- Built a **FastAPI REST API** for real-time summarization
+- Implemented a complete **NLP inference pipeline**
+- Integrated a **simple frontend UI** (HTML, CSS, JavaScript)
+- Deployed the application on **Hugging Face Spaces using Docker**
 
 **Tech Stack:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -89,32 +82,22 @@ An end-to-end **NLP application** for **abstractive dialogue summarization**, bu
 
 [![View Project](https://img.shields.io/badge/🔗_View_Project-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharthpandey-7/Text-Summarization-Project)
 
+---
+
 ### 📊 **Customer Churn Prediction (End-to-End Machine Learning)**
 
-An end-to-end **machine learning classification system** to predict customer churn for subscription-based businesses using customer demographics, service usage, and billing data.
+An end-to-end **machine learning classification system** to predict customer churn using customer demographics, service usage, and billing data.
 
 **What I built & learned:**
 - Framed churn prediction as an **imbalanced binary classification problem**
-- Performed **leakage-free preprocessing** using a fully automated **scikit-learn pipeline**
-- Applied **SMOTE inside the pipeline** for correct class imbalance handling
-- Engineered separate preprocessing for **numerical and categorical features**
-- Trained and compared **baseline and advanced ML models**
-- Selected the final model based on **business-relevant evaluation metrics**
+- Built a **leakage-free scikit-learn pipeline** for preprocessing and training
+- Applied **SMOTE inside the pipeline** for class imbalance handling
+- Trained and compared **Logistic Regression and XGBoost**
+- Evaluated models using **ROC-AUC, Precision, Recall, and F1-score**
 
-**Models Used:**
-- Logistic Regression (baseline)
-- **XGBoost Classifier (final model)**
-
-**Model Performance (Test Set):**
-- ROC-AUC: **~0.82**
+**Model Performance:**  
+- ROC-AUC: **~0.82**  
 - Accuracy: **~0.78**
-- Strong balance between precision and recall for churn detection
-
-**Key ML Concepts Demonstrated:**
-- Pipeline-based training & inference
-- Imbalanced classification handling
-- Proper model evaluation (ROC-AUC, Precision, Recall, F1)
-- Production-ready model persistence using `joblib`
 
 **Tech Stack:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -124,7 +107,6 @@ An end-to-end **machine learning classification system** to predict customer chu
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 [![View Project](https://img.shields.io/badge/🔗_View_Project-2ECC71?style=for-the-badge&logo=github&logoColor=white)](PASTE_YOUR_REPO_LINK_HERE)
-
 
 
 ---
