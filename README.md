@@ -207,7 +207,8 @@ An end-to-end **machine learning classification system** to predict customer chu
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-kumar-pandey-003065343/)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthpandey97825@gmail.com)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharthpandey-7)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-3b82f6?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://siddharth-ml-portfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-3b82f6?style=for-the-badge)](https://siddharth-ml-portfolio.netlify.app)
+
 
 
 
